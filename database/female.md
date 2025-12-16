@@ -214,7 +214,7 @@ example:
 | ssbbw | 超级胖女人 | 宽比高长的女性。需要`bbw`标签。 |  |
 | weight gain | 体重增加 | 通过摄取食物而变得更胖，极有可能成为`bbw`。不应与`inflation`混淆。 |  |
 |  | == 头部 == |  |  |
-| ahegao | 阿黑颜 | 夸张的面部表情表示高兴，通常包括上瞟的白眼，张开大嘴，舌头伸出来。通常出现在性的高潮。如果此表现的来源是由疼痛引起，则不算。<br>![ahegao](https://cloud.githubusercontent.com/assets/5716100/15511173/105436d0-220d-11e6-87f0-b2d4eca138bf.png)![图](# "https://ehgt.org/4e/45/4e45fd83ef719e9b7bdee70c25bfa4b68371529f-740277-1133-1600-jpg_l.jpg")![图](# "https://ehgt.org/77/13/771350a660bfbdac29fe6c88ac07051a6ca22ea1-527873-606-850-jpg_l.jpg") |  |
+| ahegao | アヘ顔 | 夸张的面部表情表示高兴，通常包括上瞟的白眼，张开大嘴，舌头伸出来。通常出现在性的高潮。如果此表现的来源是由疼痛引起，则不算。<br>![ahegao](https://cloud.githubusercontent.com/assets/5716100/15511173/105436d0-220d-11e6-87f0-b2d4eca138bf.png)![图](# "https://ehgt.org/4e/45/4e45fd83ef719e9b7bdee70c25bfa4b68371529f-740277-1133-1600-jpg_l.jpg")![图](# "https://ehgt.org/77/13/771350a660bfbdac29fe6c88ac07051a6ca22ea1-527873-606-850-jpg_l.jpg") |  |
 | beauty mark | 美人痣 | 深色的面部痣，通常在眼睛附近。不包括眉心红点、穿孔、纹身或印章等面部附加装饰。 |  |
 | brain fuck | 脑交🧠 | 涉及大脑的性行为。 |  |
 | cockslapping | 屌掴 | 用阴茎打人（通常是脸）。 |  |
