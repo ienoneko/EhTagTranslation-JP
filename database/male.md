@@ -441,7 +441,7 @@ example:
 | christmas | 圣诞装🎅 | 圣诞老人相关的服装，突出使用红色织物和白色修边边缘。 |  |
 | clothed female nude male | 裸男 | 男性的生殖器完全暴露于非裸体的女性。 |  |
 | clown | 小丑🤡 | 白面与皱褶领和衣服。通常强调面部特征，例如大的红色鼻子和嘴唇以及醒目的彩色头发。 |  |
-| condom | 避孕套 | 塑料套，旨在保护使用者和其伙伴免受不必要的性病以及怀孕。 |  |
+| condom | コンドーム | 塑料套，旨在保护使用者和其伙伴免受不必要的性病以及怀孕。 |  |
 | corset | 紧身胸衣 | 用于保持和塑造躯干的衣服，通常形成沙漏形状，尤指旧时妇女束腰的紧身内衣。需要`crossdressing`标签。 |  |
 | cosplaying | Cosplay | 角色打扮成另一个角色。不包括一般的角色扮演，如`schoolboy uniform`、`nurse`、`maid`。不用于 `cosplay` 图库。 |  |
 | crossdressing | 异性装 | 男性女装。不应与`gender change`混淆。<br>![图](# "https://ehgt.org/cd/fb/cdfb92f1d5c75f3754f3cb656cc468b7799344a6-1466633-1200-1694-jpg_l.jpg")![图](# "https://ehgt.org/84/13/8413cbc4d4d8905e9048c5b5a8a5e0676c011ca8-1905865-1200-1200-png_l.jpg")![图](# "https://ehgt.org/4d/2d/4d2d5424eb0e2052e0dfc6d14c982eb5f01952ae-142895-800-600-jpg_l.jpg")![图](# "https://ehgt.org/24/38/2438d21f31d1cb96f55fc883d0a00d64ac83b057-126074-800-600-jpg_l.jpg") |  |
