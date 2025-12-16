@@ -358,7 +358,7 @@ example:
 |  | === 下半身 > 阴部 === |  |  |
 | ball-less shemale | 无蛋人妖 | 一名有阴茎的女性，目视确认没有阴道和睾丸。需要`shemale`标签。不应与`futanari`混淆。 |  |
 | chastity belt | 贞操带 | 带锁的衣物，旨在防止性交或`masturbation`。经常与`bdsm`配对。 |  |
-| crotch tattoo | 淫纹 | 下腹部到耻骨区域之间的任何明显的标记。<br>![图](# "https://ehgt.org/28/30/2830ab378b95300407159112d4dd88c5ac21e979-567012-1200-1600-jpg_l.jpg") |  |
+| crotch tattoo | 淫紋 | 下腹部到耻骨区域之间的任何明显的标记。<br>![图](# "https://ehgt.org/28/30/2830ab378b95300407159112d4dd88c5ac21e979-567012-1200-1600-jpg_l.jpg") |  |
 | full-packaged futanari | 有蛋扶她 | 具有阴茎的女性，并伴有可见的阴道和睾丸。需要`futanari`标签。不应与`shemale`混淆。 |  |
 | genital piercing | 性器穿孔 | 位于生殖器、会阴或肛门的穿孔。需要`piercing`，不应与`cock ring`混淆。 |  |
 | hairy | 多毛 | 引人注目的大量阴毛。不应与`hairy armpits`混淆。 |  |
