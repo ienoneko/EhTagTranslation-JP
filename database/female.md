@@ -82,7 +82,7 @@ example:
 | bear girl | 狗熊娘 | 有圆形耳朵和其他熊的特征的女性。不应与`panda girl`混淆。 |  |
 | bee girl | 蜂女 | 具有蜜蜂特征的女性。 |  |
 | bird girl | 鸟娘 | 鸟与人类的混合体，几乎全身覆盖羽毛；通常有翅膀、喙和其他鸟类特征。需要`furry`标签。不应与`harpy`混淆。 |  |
-| bunny girl | 兔女郎 | 兔耳朵，偶尔也有一个蓬松的尾巴。<br>![图](# "https://ehgt.org/16/bc/16bcf8d035b9389e224781c734d08ae3ae8638c3-370774-1120-1200-jpg_l.jpg")![图](# "https://ehgt.org/99/7f/997f63f62a76733d7060ef745325447dbe33b755-527280-700-1036-png_l.jpg")![图](# "https://ehgt.org/c9/39/c939e1c0f8c802ec3876c1460df31448d5e73e3e-89587-800-600-jpg_l.jpg")![图](# "https://ehgt.org/08/ed/08ed83ec7db51d18fd3468667cfea901ded8ecd2-121580-425-600-jpg_l.jpg") |  |
+| bunny girl | バニーガール | 兔耳朵，偶尔也有一个蓬松的尾巴。<br>![图](# "https://ehgt.org/16/bc/16bcf8d035b9389e224781c734d08ae3ae8638c3-370774-1120-1200-jpg_l.jpg")![图](# "https://ehgt.org/99/7f/997f63f62a76733d7060ef745325447dbe33b755-527280-700-1036-png_l.jpg")![图](# "https://ehgt.org/c9/39/c939e1c0f8c802ec3876c1460df31448d5e73e3e-89587-800-600-jpg_l.jpg")![图](# "https://ehgt.org/08/ed/08ed83ec7db51d18fd3468667cfea901ded8ecd2-121580-425-600-jpg_l.jpg") |  |
 | catgirl | ねこみみ | 有猫耳，可能有猫尾或其他猫的特征。<br>![图](# "https://ehgt.org/39/d4/39d4a263d6f06be95f138f7ee0e1ed7993876994-678569-990-1390-jpg_l.jpg")![图](# "https://ehgt.org/2e/0e/2e0e8fd5f2e6b1d4d2f31e40b187f8b06107b765-3046287-2460-3500-jpg_l.jpg")![图](# "https://ehgt.org/dc/01/dc010d2b558cf4036b5a6111681d4ed2ac99e783-1080664-2304-3341-jpg_l.jpg")![图](https://ehgt.org/e9/6a/e96af793867c816635619d2c78164f16c00fcd46-2743004-1920-1080-png_l.jpg) |  |
 | centaur | 半人马 | 一半是人，一半是马。 |  |
 | corpse | 尸体 | 一具死尸。尸体本身不需要具有恋物特征（例如裸体）。不应用于`zombie`。`necrophilia`需要此标签。不需要`snuff`标签，`snuff`标签要求参与者明显被杀害。 |  |
