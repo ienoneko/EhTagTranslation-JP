@@ -486,7 +486,7 @@ example:
 | lingerie | エロ下着 | 用来增加性感度的轻薄或性感的内衣，相对于常规的内衣更色情。此外，还包括睡衣。<br>![图](# "https://ehgt.org/90/03/900397c7b6fac353359151bf0541f528447183fc-373625-498-870-jpg_l.jpg")![图](# "https://ehgt.org/3b/db/3bdbcccdce39b5203b3ccd8a68468e3c53d76f7e-662062-804-1130-png_l.jpg")![图](# "https://ehgt.org/28/72/28721edb0c17115371eaa5c89a0a681c9da33ea4-1009352-890-1312-jpg_l.jpg")![图](# "https://ehgt.org/29/0f/290f798c6f550a3d425f91a8d754a9f3eac894e6-646114-756-1224-jpg_l.jpg") |  |
 | living clothes | 生物衣 | 自己具有运动能力的衣服。 |  |
 | magical girl | 魔法少女 | 一种服装，包括裙子和褶边制服。 |  |
-| maid | 女仆装 | 女仆服装。通常由不同长度的裙子和围裙组成，但也不一定。仅仅一条头带不算。不应与`waitress`混淆。<br>![图](https://ehgt.org/46/11/4611bb80705e5b0d6a1a0ca111bc8efbe0116393-916738-625-1020-png_l.jpg)![图](# "https://ehgt.org/54/13/54137f2875e0901877add6490dc6ebf514cbb4dc-312912-503-869-jpg_l.jpg") |  |
+| maid | メイド服 | 女仆服装。通常由不同长度的裙子和围裙组成，但也不一定。仅仅一条头带不算。不应与`waitress`混淆。<br>![图](https://ehgt.org/46/11/4611bb80705e5b0d6a1a0ca111bc8efbe0116393-916738-625-1020-png_l.jpg)![图](# "https://ehgt.org/54/13/54137f2875e0901877add6490dc6ebf514cbb4dc-312912-503-869-jpg_l.jpg") |  |
 | mecha girl | 机娘 | 女性穿戴者机械部件。不应与`robot`或`machine`混淆。 |  |
 | metal armor | 金属盔甲 | 中世纪时期的金属盔甲。 |  |
 | miko | 巫女服 | 神社少女。通常穿着红色长裤或一条稍微褶皱的红色长裙、蝴蝶结和白色短外罩，搭配一些白色或红色的发带。<br>![图](https://ehgt.org/71/70/7170150887d731aa24742985890c6c9204434cd2-1109569-1280-720-png_l.jpg)![图](# "https://ehgt.org/48/55/48553adc66b1812a0eb99260d8d2b30ae20f6cd9-751856-1412-2000-png_l.jpg")![图](# "https://ehgt.org/11/f7/11f73461a9bb097570266de5cad51cdd88eea1f4-494403-2000-2500-jpg_l.jpg") |  |
