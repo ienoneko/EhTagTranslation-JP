@@ -319,7 +319,7 @@ example:
 | fingering | 指法 | 使用手指产生性快感。不应在`masturbation`时使用。男性版本是`prostate massage`。<br>![图](# "https://ehgt.org/a3/4c/a34cdf87840b6962988b6566cd2337694118470d-8474240-4059-2852-png_l.jpg")![图](# "https://ehgt.org/8d/47/8d477a3b24d049b1b0eaae033f39a023a2c78f60-13283736-4059-2852-png_l.jpg") |  |
 | fisting | 拳交💪 | 将拳头插入阴道或肛门。<br>![图](# "https://ehgt.org/bb/e0/bbe0dec8de4cf3912770e4ad38337a7d8b60aace-256432-800-600-jpg_l.jpg")![图](# "https://ehgt.org/0a/50/0a5071b7fce6d006d5b12320bd343de18dd1b83b-824589-1024-768-png_l.jpg")![图](# "https://ehgt.org/41/d0/41d0182099098eaa7dc04257d7caca56392776f3-436838-650-540-png_l.jpg") |  |
 | gloves | 手套 | 覆盖手和手指的衣服。可以向肩部延伸至手臂。 |  |
-| handjob | 打手枪 | 为其他人手淫。不应与`masturbation`混淆。<br>![图](# "https://ehgt.org/02/bf/02bf048f87962fc90c905c2cec2c4201904c0b89-196591-768-1024-jpg_l.jpg")![图](# "https://ehgt.org/f4/44/f444e6b60f0e10a1c68223d8b9c8c936ee3d3ac9-343233-800-600-jpg_l.jpg")![图](# "https://ehgt.org/d0/ce/d0ce13f5b7d8f358ecf86c6e1a843003ee0f0f21-228098-1056-990-jpg_l.jpg") |  |
+| handjob | 手コキ | 为其他人手淫。不应与`masturbation`混淆。<br>![图](# "https://ehgt.org/02/bf/02bf048f87962fc90c905c2cec2c4201904c0b89-196591-768-1024-jpg_l.jpg")![图](# "https://ehgt.org/f4/44/f444e6b60f0e10a1c68223d8b9c8c936ee3d3ac9-343233-800-600-jpg_l.jpg")![图](# "https://ehgt.org/d0/ce/d0ce13f5b7d8f358ecf86c6e1a843003ee0f0f21-228098-1056-990-jpg_l.jpg") |  |
 | multiple handjob | 多重打手枪 | 多人为另一人人手淫。需要`handjob`标签。 |  |
 |  | == 胸部 == |  |  |
 |  | === 胸部 > 乳房 === |  |  |
