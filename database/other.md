@@ -74,7 +74,7 @@ example:
 | western imageset | 西方图集 | 用于`western`类别的`imageset`。仅适用于`western`分类。类别标签候选。 |  |
 |  | === 技术 > 修正 === |  |  |
 | uncensored | 無修正 | 发表时就无码或之后消码，图库没有任何修正点。不应使用于`western`分类的图库。<br>![修正解析图](https://ehgt.org/4a/84/4a84404065a2b0530825425b8df3f07ead3c8f6a-56486-200-400-jpg_l.jpg) |  |
-| mosaic censorship | 马赛克修正 | 任何形式的马赛克修正，涵盖了几乎所有或个人所有的生殖器区域。同样水平的修正需要在整个图库完整实施。不应用于无H图库，因为对其进行修正是必须的。不应与`full censorship`混淆。<br>![修正解析图](https://ehgt.org/4a/84/4a84404065a2b0530825425b8df3f07ead3c8f6a-56486-200-400-jpg_l.jpg) |  |
+| mosaic censorship | モザイク修正 | 任何形式的马赛克修正，涵盖了几乎所有或个人所有的生殖器区域。同样水平的修正需要在整个图库完整实施。不应用于无H图库，因为对其进行修正是必须的。不应与`full censorship`混淆。<br>![修正解析图](https://ehgt.org/4a/84/4a84404065a2b0530825425b8df3f07ead3c8f6a-56486-200-400-jpg_l.jpg) |  |
 | full censorship | 完全修正 | 任何形式的完全修正（全白色或黑色），涵盖了几乎所有或个人所有的生殖器区域。同样水平的修正需要在整个图库完整实施。不应用于无H图库，因为对其进行修正是必须的。不应与`mosaic censorship`混淆。<br>![修正解析图](https://ehgt.org/4a/84/4a84404065a2b0530825425b8df3f07ead3c8f6a-56486-200-400-jpg_l.jpg) |  |
 |  | === 技术 > Cosplay === |  |  |
 | hardcore | 硬核 | 明确描述性行为，如插入阴道或`anal`。`blowjob`或`sex toys`不算在内。仅用于 Cosplay 图库。 |  |
