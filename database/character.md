@@ -3932,7 +3932,7 @@ example:
 | madoka amahane | 天羽圆香 | ![](https://img.moegirl.org.cn/common/8/8d/20170531211501_srT8A.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/天羽圆香) |
 | hime shiratori | 白鸟姬 | ![](https://img.moegirl.org.cn/common/7/7b/白鸟姬.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/白鸟姬) |
 | sussurro | 苏苏洛 | ![](https://patchwiki.biligame.com/images/arknights/a/ab/gw1b83bjk7wpktet0jkvozuy7ir3p0o.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:苏苏洛) |
-| alice tendou | 天童爱丽丝 | 所属作品：`p:blue archive`<br>隶属千年学园游戏开发部的成员。<br>在废墟发现的来历不明的少女。包含年龄在内，所有情报都无法推断。现在跟着绿和桃井玩游戏，已经变成重度游戏狂热者了。<br>![](https://patchwiki.biligame.com/images/ba/e/ef/0tb6g9wy2xbvpumygpbecd77dw09qvg.png) | [萌娘百科](https://zh.moegirl.org.cn/天童爱丽丝) |
+| alice tendou | 天童アリス | 所属作品：`p:blue archive`<br>隶属千年学园游戏开发部的成员。<br>在废墟发现的来历不明的少女。包含年龄在内，所有情报都无法推断。现在跟着绿和桃井玩游戏，已经变成重度游戏狂热者了。<br>![](https://patchwiki.biligame.com/images/ba/e/ef/0tb6g9wy2xbvpumygpbecd77dw09qvg.png) | [萌娘百科](https://zh.moegirl.org.cn/天童爱丽丝) |
 | hanabi hyuga | 日向花火 | 日向雏田的妹妹 |  |
 | chisato hasegawa | 长谷川千里 | 所属作品: `p:shinmai maou no testament`<br>![](https://static.wikia.nocookie.net/shinmai-maou-no-keiyakusha/images/0/03/Chisato_01.png) |  |
 | anko kitashirakawa | 北白川馅子 | 所属作品: `p:tamako market`<br>![图](https://ehgt.org/49/98/49988733b649315e51a337ed939d34791c62ef69-35312-270-600-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/北白川馅子) [Fandom](https://tamakomarket.fandom.com/wiki/Anko_Kitashirakawa) |
@@ -4053,7 +4053,7 @@ example:
 | youtouhime | 妖刀姬 |  |  |
 | ivy valentine | 艾薇 |  |  |
 | taki | 多喜 |  |  |
-| yuzu hanaoka | 花冈柚子 | 千年科学学校所属，游戏开发部的部长。<br>![](https://patchwiki.biligame.com/images/ba/6/6c/3mbqaum18gcpwhh29gf84yialfawmgf.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Yuzu) |
+| yuzu hanaoka | 花岡ユズ | 千年科学学校所属，游戏开发部的部长。<br>![](https://patchwiki.biligame.com/images/ba/6/6c/3mbqaum18gcpwhh29gf84yialfawmgf.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Yuzu) |
 | iroha natsume | 枣伊吕波 | 格黑娜学园所属，「万魔殿」的议员之一。![](https://patchwiki.biligame.com/images/ba/9/98/e9y91bx4q1smkuuv3nwlmjnlxc2bip9.png) | [萌娘百科](https://zh.moegirl.org.cn/枣伊吕波)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Iroha) |
 | sasara kusugawa | 久寿川莎莎菈 |  |  |
 | maako asagiri | 朝雾麻亚子 |  |  |
@@ -4075,8 +4075,8 @@ example:
 | byleth eisner | 贝雷丝·艾斯纳 | ![](https://ehgt.org/w/02/101/48907-6omx4dsi.webp)<br>游戏《`fire emblem three houses`》及其衍生作品中的主人公。 | [萌娘百科](https://zh.moegirl.org.cn/主人公%28火焰之纹章_风花雪月%29)<br>[Fandom](https://fireemblem.fandom.com/wiki/Byleth) |
 | hoshino takanashi | 小鸟游星野 | ![](https://pic.cangku.moe/images/2025/11/22/42wbE.png)<br>![](https://patchwiki.biligame.com/images/ba/4/4f/a1vfkijzou4p9i1cgn8iyc56lp9yh6x.png)<br>所属作品：`p:blue archive`<br>阿拜多斯高等学校的前副会长，现在是担任对策委员会的委员长的慵懒少女。 | [BILIGAME WIKI](https://wiki.biligame.com/ba/Hoshino) |
 | miyu kasumizawa | 霞泽美游 | 所属作品：`p:blue archive`<br>SRT特殊学园所属，RABBIT小队的狙击手。<br>![](https://patchwiki.biligame.com/images/ba/d/d0/mrxabie2s384ijjwc2a4wkab2eccmg6.png)<br>![](https://img.moegirl.org.cn/common/thumb/a/a7/BA_Miyu_ML.png/1280px-BA_Miyu_ML.png) | [萌娘百科](https://zh.moegirl.org.cn/霞泽美游)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Miyu) |
-| midori saiba | 才羽绿 | 所属作品：`p:blue archive`<br>千年科学学校所属，游戏开发部的插画家。和双胞胎姊姊桃井一起在游戏开发部开发游戏。<br>![](https://patchwiki.biligame.com/images/ba/2/2d/emri5ceuyg91ib7xppdr8ijlpvg3rjv.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Midori) |
-| momoi saiba | 才羽桃井 | 所属作品：`p:blue archive`<br>千年科学学校所属，游戏开发部的脚本编剧。和双胞胎妹妹绿一起在游戏开发部开发游戏。 个性爽快开朗，和生性内向的妹妹不太合得来。但她们对游戏充满热情，两人在这方面意气相投，是独一无二的好搭档。<br>![](https://patchwiki.biligame.com/images/ba/1/19/ncnx3nm2zhcxeouf1ruucv1b5a9jkuv.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Momoi) |
+| midori saiba | 才羽ミドリ | 所属作品：`p:blue archive`<br>千年科学学校所属，游戏开发部的插画家。和双胞胎姊姊桃井一起在游戏开发部开发游戏。<br>![](https://patchwiki.biligame.com/images/ba/2/2d/emri5ceuyg91ib7xppdr8ijlpvg3rjv.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Midori) |
+| momoi saiba | 才羽モモイ | 所属作品：`p:blue archive`<br>千年科学学校所属，游戏开发部的脚本编剧。和双胞胎妹妹绿一起在游戏开发部开发游戏。 个性爽快开朗，和生性内向的妹妹不太合得来。但她们对游戏充满热情，两人在这方面意气相投，是独一无二的好搭档。<br>![](https://patchwiki.biligame.com/images/ba/1/19/ncnx3nm2zhcxeouf1ruucv1b5a9jkuv.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Momoi) |
 | kaede isami | 勇美枫 | ![](https://patchwiki.biligame.com/images/ba/c/c0/1j2kaec2fnh8nodzsv7cfxdiq0m3bt9.png)<br>所属作品：`p:blue archive`<br>百鬼夜行联合学园所属，修行部的元气部员。 | [BILIGAME WIKI](https://wiki.biligame.com/ba/Kaede) |
 | mari iochi | 伊落玛丽 | 所属作品：`p:blue archive`<br>三一综合学园所属，修女会虔诚诚实的少女。<br>![](https://patchwiki.biligame.com/images/ba/e/e1/7prly85i5eq24gmkg6jzejjp537t5d3.png)<br>![](https://patchwiki.biligame.com/images/ba/8/84/2sly8ttbdvdeuxpa4w0mslim2pr1xpm.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Mari) |
 | izuna kuda | 久田泉奈 | 所属作品：`p:blue archive`<br><br>百鬼夜行联合学院所属，忍术研究部的少女。虽然是个性格活泼开朗的女孩，但因为一直追求着他人难以理解的梦想，使得自己至今都是孤身一人。这个梦想是「成为基沃托斯最顶尖的忍者」。为了成为出色的忍者，今天也是称呼老师为「主公！」的同时进行护卫（也可以说是单方面追着跑），并埋头于开展各种修行活动。![](https://patchwiki.biligame.com/images/ba/9/90/rh2cxdojv2odbcjpf4e6r0nw3tthhel.png)<br>![](https://patchwiki.biligame.com/images/ba/5/5f/gs92g1th2uoetzr9huuty24qszekr00.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Izuna) |
