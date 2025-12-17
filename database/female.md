@@ -261,7 +261,7 @@ example:
 | personality excretion | 人格排泄 | 参与者将他们的灵魂转移到某种物品（例如粪便、飞机杯或精液）中，然后排出体外，使他们的身体成为一个空壳。只有排出的过程计算在内。 |  |
 | possession | 附身 | 参与者的身体被外部的思想所占据，实际上被剥夺了自己的意志。<br>不应与`mind control`或`body swap`混淆。 |  |
 | shared senses | 感官共享 | 分享感官与某物或某人。不得与`wormhole`混淆。 |  |
-| sleeping | 睡觉 | 与未醒之人的性交。可能算作`rape`。 |  |
+| sleeping | 睡眠姦 | 与未醒之人的性交。可能算作`rape`。 |  |
 |  | === Head > Eyes === | === 头部 > 眼睛 === |  |
 | additional eyes | 多眼 | 超过 2 只眼睛在人形生物的身体某处或附着在人形生物的身体上。 |  |
 | blindfold | 遮眼布 | 以遮住视线为目的的眼罩。<br>![图](# "https://ehgt.org/8a/63/8a633d74431032eb6b29a3276635c6691b1edb46-863726-1280-720-png_l.jpg")![图](# "https://ehgt.org/0b/13/0b1328ca3c33ab789b2e79c269c501252931b870-626328-800-600-png_l.jpg") |  |
