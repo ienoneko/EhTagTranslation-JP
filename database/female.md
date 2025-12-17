@@ -657,7 +657,7 @@ example:
 | male on dickgirl | 男上扶 | 男性插入有阴茎的女性，无论是阴道、`anal`还是`blowjob`。需要`futanari`或`shemale`标签。<br>![图](# "https://ehgt.org/e1/df/e1df91fe0654a425d6f5227ae76862b2b0f59c5a-726890-1024-600-png_l.jpg") |  |
 |  | == 技术 == |  |  |
 | first person perspective | 第一人称视角 | 透过角色的眼睛观察。 |  |
-| x-ray | 透视 | 内部器官通过皮肤或从内部可见。<br>![图](# "https://ehgt.org/c7/6d/c76d21ffb940e746f076d2a76192daacf0545c32-2395112-2273-3304-jpg_l.jpg")![图](# "https://ehgt.org/d0/5c/d05c133387c365dabaed90d09ef057e068e2fba0-2148926-1988-3285-jpg_l.jpg")![图](# "https://ehgt.org/1b/4d/1b4d2e358bfa0c2bb2c97bd92ce9547f250181df-1545469-1578-2273-jpg_l.jpg") |  |
+| x-ray | 断面図 | 内部器官通过皮肤或从内部可见。<br>![图](# "https://ehgt.org/c7/6d/c76d21ffb940e746f076d2a76192daacf0545c32-2395112-2273-3304-jpg_l.jpg")![图](# "https://ehgt.org/d0/5c/d05c133387c365dabaed90d09ef057e068e2fba0-2148926-1988-3285-jpg_l.jpg")![图](# "https://ehgt.org/1b/4d/1b4d2e358bfa0c2bb2c97bd92ce9547f250181df-1545469-1578-2273-jpg_l.jpg") |  |
 |  | == Contextual == | == 上下文 == |  |
 | coach | 教练 | 身体训练的指导者。 |  |
 | impregnation | 孕ませ | `pregnant`的过程。 |  |
