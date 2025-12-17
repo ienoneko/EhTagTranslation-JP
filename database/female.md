@@ -352,7 +352,7 @@ example:
 | cumflation | 精液膨胀 | 胃部由于充满精液而像气球一样向外扩展。需要`inflation`标签。不应与`pregnant`、`stomach deformation`或`weight gain`相混淆。 |  |
 | navel birth | 肚脐出产 | 生物通过肚脐分娩。通常发生在`pregnant`之后。图库只需要包含一张这种性质的图片就需要打上此标签。不应用于`eggs`。 |  |
 | navel fuck | 肚脐奸 | 插入肚脐。 |  |
-| pregnant | 怀孕 | 涉及明显怀孕的参与者的性活动或裸体。也允许在非色情图库中用于视觉上怀孕的人。记住存在规则(presence rule)。如果仅在故事的最后几页显示某人怀孕，则不应对其进行标记，也不应使用它来代替`impregnation`。<br>![图](# "https://ehgt.org/ea/55/ea558b8de582f8ede8f1fcc3d5dd31b41b52eabf-176359-800-600-jpg_l.jpg")![图](# "https://ehgt.org/8f/76/8f76ebc9dc6dcbc8660da6965caa98d66b0208e9-158245-800-600-jpg_l.jpg")![图](# "https://ehgt.org/90/8b/908bcf9f0614186e584dea400a070bac3fdfd65d-140098-800-600-jpg_l.jpg")![图](# "https://ehgt.org/03/8f/038fe08d0775c523bf865cfaf468f8c73b14d81b-556345-800-600-png_l.jpg")![图](# "https://ehgt.org/57/47/57470b45c00f318c065da2730e81cb18eb2f4fd3-535347-800-600-png_l.jpg")![图](# "https://ehgt.org/b7/69/b769ae1a657918ea041c9e6420de6b66be3b709a-386664-800-600-png_l.jpg")![图](# "https://ehgt.org/65/01/6501de93f3cb8ca6aac86d0c082c37b235346744-168878-713-1000-jpg_l.jpg") |  |
+| pregnant | ボテ腹 | 涉及明显怀孕的参与者的性活动或裸体。也允许在非色情图库中用于视觉上怀孕的人。记住存在规则(presence rule)。如果仅在故事的最后几页显示某人怀孕，则不应对其进行标记，也不应使用它来代替`impregnation`。<br>![图](# "https://ehgt.org/ea/55/ea558b8de582f8ede8f1fcc3d5dd31b41b52eabf-176359-800-600-jpg_l.jpg")![图](# "https://ehgt.org/8f/76/8f76ebc9dc6dcbc8660da6965caa98d66b0208e9-158245-800-600-jpg_l.jpg")![图](# "https://ehgt.org/90/8b/908bcf9f0614186e584dea400a070bac3fdfd65d-140098-800-600-jpg_l.jpg")![图](# "https://ehgt.org/03/8f/038fe08d0775c523bf865cfaf468f8c73b14d81b-556345-800-600-png_l.jpg")![图](# "https://ehgt.org/57/47/57470b45c00f318c065da2730e81cb18eb2f4fd3-535347-800-600-png_l.jpg")![图](# "https://ehgt.org/b7/69/b769ae1a657918ea041c9e6420de6b66be3b709a-386664-800-600-png_l.jpg")![图](# "https://ehgt.org/65/01/6501de93f3cb8ca6aac86d0c082c37b235346744-168878-713-1000-jpg_l.jpg") |  |
 | stomach deformation | 腹部变形 | 固体从腹内向外推压，并出现一个可见突起。通常由`large insertions`或者`big penis`引起。<br>![胃部变型](# "https://ehgt.org/6d/31/6d315c58e72ac24279c4a89ae783f177b0f222a6-226565-850-1199-jpg_250.jpg")![图](# "https://ehgt.org/1b/e8/1be8872a68cc6294d8eba5a0527b410dd96acd9d-6693437-2325-3300-png_l.jpg") |  |
 |  | == 下半身 == |  |  |
 |  | === 下半身 > 阴部 === |  |  |
@@ -660,7 +660,7 @@ example:
 | x-ray | 透视 | 内部器官通过皮肤或从内部可见。<br>![图](# "https://ehgt.org/c7/6d/c76d21ffb940e746f076d2a76192daacf0545c32-2395112-2273-3304-jpg_l.jpg")![图](# "https://ehgt.org/d0/5c/d05c133387c365dabaed90d09ef057e068e2fba0-2148926-1988-3285-jpg_l.jpg")![图](# "https://ehgt.org/1b/4d/1b4d2e358bfa0c2bb2c97bd92ce9547f250181df-1545469-1578-2273-jpg_l.jpg") |  |
 |  | == Contextual == | == 上下文 == |  |
 | coach | 教练 | 身体训练的指导者。 |  |
-| impregnation | 受孕 | `pregnant`的过程。 |  |
+| impregnation | 孕ませ | `pregnant`的过程。 |  |
 | mesugaki | 雌小鬼 | メスガキ，表现出傲慢、专横和诱惑的孩子，通常对地位较高的人，无论是年龄还是地位。通常，角色会嘲笑/侮辱/贬低其他角色的反应。需要`lolicon`标签。 | [萌娘百科](https://zh.moegirl.org.cn/雌小鬼) |
 | prostitution | 卖淫 | 以性换钱的行为。通常包括以某种挑逗的方式穿衣。 |  |
 | teacher | 教师 | 角色作为教师参与。 |  |
