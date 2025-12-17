@@ -245,7 +245,7 @@ example:
 | ponytail | 马尾辫 | 将大部分的头发往后集中，用一个胶圈或其它的可以扎发的装饰品，将辫子扎起来竖在半空中的造型。当有两条辫子时使用`twintails`。<br>![图](# "https://ehgt.org/ba/a9/baa962267380ffa55387a435ee20969a2f505fbf-1535769-2080-3000-jpg_l.jpg")![图](# "https://ehgt.org/90/59/9059c5448ffc26d84fcb4243e7cea3d8b543370e-3566701-1400-2000-png_l.jpg")![图](# "https://ehgt.org/b3/5b/b35bae207393348b691308e32532d7209af88de3-7439492-2147-3037-png_l.jpg") |  |
 | prehensile hair | 抓握发 | 一个拥有像肢体一样控制她的头发的能力的角色。 |  |
 | shaved head | 光头 | 只有发茬的头部。不应与`bald`混淆。 |  |
-| twintails | 双马尾 | 将大部分的头发往头部两侧集中，用胶圈或其它的可以扎发的装饰品，将辫子扎起来竖在半空中的造型。不应与`ponytail`混淆。<br>![图](# "https://ehgt.org/16/b2/16b24b0dae1df18ad31cf64ec35a483a751a847c-550688-2089-3049-jpg_l.jpg")![图](# "https://ehgt.org/ec/07/ec07ca53d2ab5d32e5a77eaeaecc2415f9d4bad4-3021017-4946-6958-jpg_l.jpg")![图](# "https://ehgt.org/3b/ce/3bce239dc3fddd3b48633fc14ef5482ad7c44955-207535-1268-1800-jpg_l.jpg")![图](# "https://ehgt.org/ac/31/ac317328373aa8d29943a051635b5597f1659b72-2253091-1580-1020-png_l.jpg") |  |
+| twintails | ツインテール | 将大部分的头发往头部两侧集中，用胶圈或其它的可以扎发的装饰品，将辫子扎起来竖在半空中的造型。不应与`ponytail`混淆。<br>![图](# "https://ehgt.org/16/b2/16b24b0dae1df18ad31cf64ec35a483a751a847c-550688-2089-3049-jpg_l.jpg")![图](# "https://ehgt.org/ec/07/ec07ca53d2ab5d32e5a77eaeaecc2415f9d4bad4-3021017-4946-6958-jpg_l.jpg")![图](# "https://ehgt.org/3b/ce/3bce239dc3fddd3b48633fc14ef5482ad7c44955-207535-1268-1800-jpg_l.jpg")![图](# "https://ehgt.org/ac/31/ac317328373aa8d29943a051635b5597f1659b72-2253091-1580-1020-png_l.jpg") |  |
 | very long hair | 超长发 | 大部分头发长度在肚脐以下或附近。由于被绑起来而无法达到该长度的头发不算。 |  |
 |  | === 头部 > 思维 === |  |  |
 | body swap | 换身 | 与另一名参与者交换身体。<br>不应与`possession`混淆。 |  |
