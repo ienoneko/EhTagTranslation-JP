@@ -666,7 +666,7 @@ example:
 | teacher | 教师 | 角色作为教师参与。 |  |
 | tomboy | 假小子 | 一个女孩模仿男性的穿着、行为和言辞，但没有掩饰自己的性别。当她试图掩饰自己的性别时，有可能与`crossdressing`共存。 |  |
 | tutor | 家庭教师 | 向校外的学生提供私人学术援助的人士。 |  |
-| vtuber | 虚拟主播 | 主要出现于在线视频平台的原创虚拟化身。 |  |
+| vtuber | VTuber | 主要出现于在线视频平台的原创虚拟化身。 |  |
 | widow | 寡妇 | 另一半（婚配或长期相处）已经死亡的女性。必须在图库本身中以文本或视觉方式明确确定死者及其死亡。 |  |
 | yandere | 病娇 | 动机来自于强迫的爱的精神病的行为。包括骚扰或劫持感兴趣的人；恐吓或伤害感知到的对手。如果有任何性活动，此人必须直接参与其中。 |  |
 | yuri | ![百合花图标](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/yuri.webp)百合 | 至少两个女性之间的性行为。不用于`futanari`/`shemale`和女性间的性行为或非色情内容。如果有一幕场景揭示一个角色是扶她，以前的仍然可以算作百合。不用于混合性别`group`。<br>同义词：女同性恋(dyke)、女上女(girl on girl)和蕾丝边(lesbians)<br>![图](# "https://ehgt.org/d5/c4/d5c4b4200236de185597b699bc34f92af9c7ad65-12259079-2132-3028-png_l.jpg")![图](# "https://ehgt.org/d4/93/d493b6addbac0ef3111497b52a00ac2d4a877a42-746063-1200-1684-jpg_l.jpg")![图](# "https://ehgt.org/5f/da/5fda36473f20f35f18183f10c151fa4b027dbdd1-1196044-4355-3000-jpg_l.jpg")![图](# "https://ehgt.org/4e/7b/4e7b15a24f525cc511cd7a174caeb7d3f05bb93b-1235318-2124-3000-jpg_l.jpg") |  |
