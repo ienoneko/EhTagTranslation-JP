@@ -1,3 +1,9 @@
+# E(x)Hentai タグ日本語化
+
+This is an attempt to localize E-Hentai gallery tags back into Japanese, largely based on the existing efforts from `EhTagTranslation` project which is mainly focused on Chinese translations.
+
+The original Read-Me document from upstream repository is provided below:
+
 # EhTagTranslation 译文数据库
 
 [![Build status](../../workflows/build/badge.svg)](../../actions)
