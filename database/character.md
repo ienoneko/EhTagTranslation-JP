@@ -931,14 +931,14 @@ example:
 | wiz | 维兹 | ![维兹](https://ehgt.org/ab/3a/ab3aa98630db78bb1f5c1009385385da898ee2a2-494209-834-1179-jpg_l.jpg) |  |
 | chris | 克莉丝 | ![克莉丝](# "https://ehgt.org/af/b5/afb58cc128df5f081d6db9d41c9a64f85a198393-136583-800-1000-jpg_l.jpg") |  |
 |  | ▼ 请问您今天要来点兔子吗？ 角色 |  |  |
-| kokoa hoto | 保登心爱 | ![保登心爱](# "https://ehgt.org/8d/65/8d6540d0b2dd2f9e48c55cb15900f228332addd7-1630906-1050-1492-png_l.jpg") |  |
-| chino kafuu | 香风智乃 | ![香风智乃](# "https://ehgt.org/4a/74/4a7451ef3c0faf3955386a01a369d5a7a1ac6729-895080-2119-3000-jpg_l.jpg") ![智麻惠小队](# "https://ehgt.org/92/37/9237e3f26118e0051fcbc4a3fc28eca075eaa7d8-4893694-2452-3467-jpg_l.jpg") |  |
+| kokoa hoto | 保登心愛 | ![保登心爱](# "https://ehgt.org/8d/65/8d6540d0b2dd2f9e48c55cb15900f228332addd7-1630906-1050-1492-png_l.jpg") |  |
+| chino kafuu | 香風智乃 | ![香风智乃](# "https://ehgt.org/4a/74/4a7451ef3c0faf3955386a01a369d5a7a1ac6729-895080-2119-3000-jpg_l.jpg") ![智麻惠小队](# "https://ehgt.org/92/37/9237e3f26118e0051fcbc4a3fc28eca075eaa7d8-4893694-2452-3467-jpg_l.jpg") |  |
 | rize tedeza | 天天座理世 | ![天天座理世](# "https://ehgt.org/68/57/68570a0618c9dae4d7b5183bfcb3fc0167b11f2b-795826-1051-1494-jpg_l.jpg")<br>所属作品：`gochuumon wa usagi desu ka` | [萌娘百科](https://zh.moegirl.org.cn/天天座理世) |
 | chiya ujimatsu | 宇治松千夜 | ![宇治松千夜](# "https://ehgt.org/7c/c7/7cc7365f5c323165d889d49b238616a81f51e241-166784-1050-1492-jpg_l.jpg") |  |
 | sharo kirima | 桐间纱路 | ![桐间纱路](# "https://ehgt.org/15/6d/156d9c00abfab48850e66cd45dffebd640aa6542-7546505-2128-3000-png_l.jpg") |  |
 | maya jouga | 条河麻耶 | ![智麻惠小队](# "https://ehgt.org/92/37/9237e3f26118e0051fcbc4a3fc28eca075eaa7d8-4893694-2452-3467-jpg_l.jpg") |  |
-| megumi natsu | 奈津惠 | ![智麻惠小队](# "https://ehgt.org/92/37/9237e3f26118e0051fcbc4a3fc28eca075eaa7d8-4893694-2452-3467-jpg_l.jpg") |  |
-| mocha hoto | 保登摩卡 | ![保登摩卡](# "https://ehgt.org/e5/f8/e5f8ec4255427838f207d6d71cab58ba0359451a-2382965-1280-1807-png_l.jpg") |  |
+| megumi natsu | 奈津恵 | ![智麻惠小队](# "https://ehgt.org/92/37/9237e3f26118e0051fcbc4a3fc28eca075eaa7d8-4893694-2452-3467-jpg_l.jpg") |  |
+| mocha hoto | 保登モカ | ![保登摩卡](# "https://ehgt.org/e5/f8/e5f8ec4255427838f207d6d71cab58ba0359451a-2382965-1280-1807-png_l.jpg") |  |
 | midori aoyama | 青山翠 | 青山Blue Mountain是Koi所创作的漫画《请问您今天要来点兔子吗？》及其衍生作品的登场角色。 |  |
 |  | ▼ 我的脑内恋碍选项 角色 |  |  |
 | kanade amakusa | 甘草奏 |  |  |
