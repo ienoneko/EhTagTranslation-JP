@@ -1833,7 +1833,7 @@ example:
 | kirei kotomine | 言峰绮礼 | 第四次圣杯战争中 Assassin、Archer 的御主，第五次圣杯战争中 Lancer 的御主，远坂凛和间桐樱的杀父仇人，第五次圣杯战争的幕后黑手。<br>偷税<br>![图](https://ehgt.org/16/92/1692045b9d35553ca38b81f595edef1e8076f307-20413-280-479-jpg_l.jpg) |  |
 | sakura matou | 间桐樱 | ![](https://pic.cangku.moe/images/2025/11/22/42CeI.png)<br>所属作品：`fate stay night`<br>第五次圣杯战争中 Rider 真正的御主，远坂凛的亲妹妹。 |  |
 | shinji matou | 间桐慎二 | 第五次圣杯战争中 Rider 的表面御主，间桐樱的养兄。<br>![图](https://ehgt.org/fa/e4/fae41d54734ed77967c8987e880db06b9681534c-34704-280-479-jpg_l.jpg) |  |
-| illyasviel von einzbern | 伊莉雅丝菲尔·冯·爱因兹贝伦 | ![](https://pic.cangku.moe/images/2025/11/22/42rjs.png)<br>![](https://pic.cangku.moe/images/2025/11/22/42sI1.png)<br>所属作品：`fate kaleid liner prisma illya`，`fate stay night` | [萌娘百科](https://zh.moegirl.org.cn/伊莉雅丝菲尔·冯·爱因兹贝伦) |
+| illyasviel von einzbern | イリヤスフィール・フォン・アインツベルン | ![](https://pic.cangku.moe/images/2025/11/22/42rjs.png)<br>![](https://pic.cangku.moe/images/2025/11/22/42sI1.png)<br>所属作品：`fate kaleid liner prisma illya`，`fate stay night` | [萌娘百科](https://zh.moegirl.org.cn/伊莉雅丝菲尔·冯·爱因兹贝伦) |
 |  | TYPE-MOON > Fate > Stay Night（第五次圣杯战争）> 其他人物 |  |  |
 | saber alter | Saber Alter | 黑Saber<br>![图](https://ehgt.org/40/a5/40a51bc68a2402ea08d427ba830a5be37a4d7be7-1963656-1024-1448-png_l.jpg)![图](https://ehgt.org/3d/32/3d3216e8ae1841b38434781d6ec0afd60c68ade4-1675488-2130-3019-jpg_l.jpg)![图](https://ehgt.org/87/8b/878b688b0883dffaf11dfad6dde72b62e4e5c756-14099252-4875-3349-png_l.jpg) | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
 | taiga fujimura | 藤村大河 | ![图](https://ehgt.org/34/10/3410654fa406e2958105e4a99dd3d374bac557be-1651792-1024-1448-png_l.jpg)![图](https://ehgt.org/2e/81/2e81b9f80ace2acf3e0f1b6aa3fe1563c141f94f-1638645-1024-1448-png_l.jpg) |  |
@@ -1922,9 +1922,9 @@ example:
 | atalanta | 阿塔兰忒 | 游戏`fate grand order`或fate衍生作品中的出场角色。<br>![图](https://ehgt.org/9a/ab/9aab6e54e99bea14f2ea16f5e10cbc0fc3e0b958-2860389-1024-1448-png_l.jpg) | [Mooncell](http://www.fgo.wiki/w/阿塔兰忒) [萌娘百科](https://zh.moegirl.org.cn/阿塔兰忒%28Fate%29#) |
 | kairi sisigou | 狮子劫界离 |  |  |
 | miyako arima | 有间都古 |  |  |
-| chloe von einzbern | 克洛伊·冯·爱因兹贝伦 | ![](https://pic.cangku.moe/images/2025/11/22/42DSM.png)<br>![](https://pic.cangku.moe/images/2025/11/22/42zZR.png)<br>所属作品：`fate kaleid liner prisma illya`<br>由于使地脉正常化的仪式出了差错，里人格从伊莉雅身上分离出来并借助Archer的职阶卡实体化。<br>“克洛伊”为获得身体后自己瞎掰出的名字，（クロエ读音与日语中黑色相同），被爱丽丝菲尔收服后以伊莉雅堂妹的身份住进爱因兹贝伦家。 | [萌娘百科](https://zh.moegirl.org.cn/克洛伊·冯·爱因兹贝伦) |
+| chloe von einzbern | クロエ・フォン・アインツベルン | ![](https://pic.cangku.moe/images/2025/11/22/42DSM.png)<br>![](https://pic.cangku.moe/images/2025/11/22/42zZR.png)<br>所属作品：`fate kaleid liner prisma illya`<br>由于使地脉正常化的仪式出了差错，里人格从伊莉雅身上分离出来并借助Archer的职阶卡实体化。<br>“克洛伊”为获得身体后自己瞎掰出的名字，（クロエ读音与日语中黑色相同），被爱丽丝菲尔收服后以伊莉雅堂妹的身份住进爱因兹贝伦家。 | [萌娘百科](https://zh.moegirl.org.cn/克洛伊·冯·爱因兹贝伦) |
 | luviagelita edelfelt | 露维亚瑟琳塔·艾德费尔特 |  |  |
-| miyu edelfelt | 美游·艾德费尔特 | ![](https://pic.cangku.moe/images/2025/11/22/42ySk.png)<br>所属作品：`fate kaleid liner prisma illya`<br>魔法蓝宝石的新主人，被露维亚瑟琳塔收为义妹（“艾德费尔特”姓氏的来由，其原本的姓氏为朔月，后因实现自己成为哥哥的亲妹妹的愿望后改姓卫宫），以转学生的身份转到伊莉雅的学校。 | [萌娘百科](https://zh.moegirl.org.cn/美游·艾德费尔特) |
+| miyu edelfelt | 美遊・エーデルフェルト | ![](https://pic.cangku.moe/images/2025/11/22/42ySk.png)<br>所属作品：`fate kaleid liner prisma illya`<br>魔法蓝宝石的新主人，被露维亚瑟琳塔收为义妹（“艾德费尔特”姓氏的来由，其原本的姓氏为朔月，后因实现自己成为哥哥的亲妹妹的愿望后改姓卫宫），以转学生的身份转到伊莉雅的学校。 | [萌娘百科](https://zh.moegirl.org.cn/美游·艾德费尔特) |
 | sella | 塞拉 |  |  |
 | euryale | 尤瑞艾莉 | 尤瑞艾莉是TYPE-MOON旗下《Fate系列》及其衍生作品的登场角色，在游戏《Fate/hollow ataraxia》中首次登场。<br>希腊神话中戈耳工三姊妹的次女。<br>![二姐初始](https://img.moegirl.org.cn/common/6/63/二姐初始.png)![二姐满破](https://img.moegirl.org.cn/common/3/3d/二姐满破.png) | [萌娘百科](https://zh.moegirl.org.cn/尤瑞艾莉) [Mooncell](http://www.fgo.wiki/w/尤瑞艾莉) |
 | shiki ryougi | 两仪式 | ![图](https://ehgt.org/39/6a/396a0c4d0cb0ad982c1ab74cb2ee7993db9e4e1a-1666909-1024-1448-png_l.jpg)<br>![图](https://ehgt.org/b8/42/b84245fa93af8346e1bbe64499c92b0795946d57-1436434-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/两仪式) [Saber - Mooncell](http://www.fgo.wiki/w/两仪式) [Assassin - Mooncell](http://www.fgo.wiki/w/两仪式%28Assassin%29) |
